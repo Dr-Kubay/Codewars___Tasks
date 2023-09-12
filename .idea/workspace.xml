@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ea8b9b-48a1-4cae-bb04-f8fff74045d9" name="Changes" comment="" />
+    <list default="true" id="06ea8b9b-48a1-4cae-bb04-f8fff74045d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars_tasks/Multiples of 3 or 5 (6kyu).py" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars_tasks/Multiples of 3 or 5 (6kyu).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multiples of 3 or 5 (6kyu).py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,15 +28,17 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2VCak1MhrkWHroIAOhoeTS5XAXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="S:\Codewars\Codewars___Tasks" />
