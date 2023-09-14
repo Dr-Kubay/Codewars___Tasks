@@ -2,12 +2,9 @@
 # accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
 
 def accum(s):
-    index = 1
     result = []
-    for letter in s:
-        letter = letter * index
-        index += 1
-        result.append(letter.capitalize())
+    for count, letter in enumerate(s):
+        result.append((letter * (count+1)).capitalize())
     return "-".join(result)
 
 
