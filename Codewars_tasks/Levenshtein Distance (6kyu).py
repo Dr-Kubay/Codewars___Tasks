@@ -2,4 +2,9 @@
 
 # Levenshtein Distance, also known as Edit Distance, is used to calculate the difference between two strings.
 
-def levenshtein(a,b)
+# Way1
+def levenshtein(a, b):
+    x = len(a)
+    y = len(b)
+    d = [[0] * (y + 1) for el in range(x + 1)]
+
