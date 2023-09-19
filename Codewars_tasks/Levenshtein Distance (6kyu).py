@@ -6,23 +6,23 @@
 def levenshtein(a, b):
     x = len(a)
     y = len(b)
-    d = [[0] * (y + 1) for el in range(x + 1)]
+    d = [[0] * (y + 1) for i in range(x + 1)]
 
-    for el in range(1, x + 1):
-        d[el][0] = el
+    for i in range(1, x + 1):
+        d[i][0] = i
 
-    for n in range(1, y + 1):
-        d[0][n] = n
+    for j in range(1, y + 1):
+        d[0][j] = j
 
-    for n in range(1, y + 1):
-        for el in range(1, x + 1):
-            if x[el - 1] == y[n - 1]:
+    for j in range(1, y + 1):
+        for i in range(1, x + 1):
+            if a[i - 1] == b[j - 1]:
                 cost = 0
             else:
                 cost = 1
-            d[el][n] = min(d[x - 1][n] + 1,
-            d[el][n - 1] + 1,
-            d[el - 1][n - 1] + cost)
+            d[i][j] = min(d[i - 1][j] + 1,
+            d[i][j - 1] + 1,
+            d[i - 1][j - 1] + cost)
 
     return d[x][y]
 
