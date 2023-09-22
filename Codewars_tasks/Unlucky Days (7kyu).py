@@ -1,7 +1,8 @@
-import calendar as c
+# import calendar as c
+from datetime import date
 
 def unlucky_days(year):
-    return [c.weekday(year, m, 13) for m in range(1, 13)].count(4)
+    return sum(date(year, m, 13).weekday() == 4 for m in range(1, 13))
 
 
 # tests:
