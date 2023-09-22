@@ -3,16 +3,18 @@ from datetime import date, timedelta
 def unlucky_days(year):
 
     result = 0
-    start_year = date(year, 1,1 )
-    end_year = date(year, 12, 31)
 
-    day = timedelta(days=1)
-
-    while start_year <= end_year:
-        if start_year.strftime('%A %d') == "Friday 13":
+    for m in range(1, 13):
+        if date(year, m, 13).weekday() == 4:
             result += 1
-        start_year += day
-
     return result
 
+# tests:
 print(unlucky_days(1634))
+print(unlucky_days(1700))
+print(unlucky_days(1812))
+print(unlucky_days(1907))
+print(unlucky_days(1945))
+print(unlucky_days(2001))
+print(unlucky_days(2020))
+print(unlucky_days(2022))
