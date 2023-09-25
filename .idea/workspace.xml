@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ea8b9b-48a1-4cae-bb04-f8fff74045d9" name="Changes" comment="Multiples of 3 or 5 (6kyu)">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars_tasks/Get the Middle Character (7kyu).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars_tasks/Highest and lowest (7kyu).py" afterDir="false" />
+    <list default="true" id="06ea8b9b-48a1-4cae-bb04-f8fff74045d9" name="Changes" comment="update code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +62,143 @@
       <option name="project" value="LOCAL" />
       <updated>1694521779575</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add tests">
+      <option name="closed" value="true" />
+      <created>1694676848975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694676848975</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add task">
+      <option name="closed" value="true" />
+      <created>1694677255462</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694677255462</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add task Mumbling (7kyu).py">
+      <option name="closed" value="true" />
+      <created>1694684178687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694684178687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update task Mumbling (7kyu).py">
+      <option name="closed" value="true" />
+      <created>1694684329765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694684329765</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add task">
+      <option name="closed" value="true" />
+      <created>1694694141104</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694694141104</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add task">
+      <option name="closed" value="true" />
+      <created>1694694184506</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694694184506</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add task">
+      <option name="closed" value="true" />
+      <created>1694782840337</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694782840337</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add task">
+      <option name="closed" value="true" />
+      <created>1694954156323</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694954156324</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add task">
+      <option name="closed" value="true" />
+      <created>1695112345163</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695112345164</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add task">
+      <option name="closed" value="true" />
+      <created>1695118589112</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1695118589112</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update task">
+      <option name="closed" value="true" />
+      <created>1695119377537</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695119377537</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update task">
+      <option name="closed" value="true" />
+      <created>1695120039439</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695120039439</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update task">
+      <option name="closed" value="true" />
+      <created>1695120416035</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695120416035</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add task">
+      <option name="closed" value="true" />
+      <created>1695377780786</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695377780786</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update code">
+      <option name="closed" value="true" />
+      <created>1695378257796</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695378257796</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update code">
+      <option name="closed" value="true" />
+      <created>1695379119670</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695379119670</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update code">
+      <option name="closed" value="true" />
+      <created>1695379378862</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695379378862</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +214,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Multiples of 3 or 5 (6kyu)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiples of 3 or 5 (6kyu)" />
+    <MESSAGE value="Add tests" />
+    <MESSAGE value="Add task" />
+    <MESSAGE value="Add task Mumbling (7kyu).py" />
+    <MESSAGE value="Update task Mumbling (7kyu).py" />
+    <MESSAGE value="update task" />
+    <MESSAGE value="add task" />
+    <MESSAGE value="update code" />
+    <option name="LAST_COMMIT_MESSAGE" value="update code" />
   </component>
 </project>
