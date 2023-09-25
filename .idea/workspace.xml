@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ea8b9b-48a1-4cae-bb04-f8fff74045d9" name="Changes" comment="add task">
-      <change beforePath="$PROJECT_DIR$/Codewars_tasks/Sum a list but ignore any duplicates (7kyu).py" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars_tasks/Sum a list but ignore any duplicates (7kyu).py" afterDir="false" />
+    <list default="true" id="06ea8b9b-48a1-4cae-bb04-f8fff74045d9" name="Changes" comment="update task">
+      <change afterPath="$PROJECT_DIR$/Codewars_tasks/Run-length encoding (6kyu).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695637841554</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update task">
+      <option name="closed" value="true" />
+      <created>1695638126376</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1695638126376</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,9 +235,9 @@
     <MESSAGE value="Add task" />
     <MESSAGE value="Add task Mumbling (7kyu).py" />
     <MESSAGE value="Update task Mumbling (7kyu).py" />
-    <MESSAGE value="update task" />
     <MESSAGE value="update code" />
     <MESSAGE value="add task" />
-    <option name="LAST_COMMIT_MESSAGE" value="add task" />
+    <MESSAGE value="update task" />
+    <option name="LAST_COMMIT_MESSAGE" value="update task" />
   </component>
 </project>
