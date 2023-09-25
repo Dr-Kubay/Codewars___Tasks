@@ -7,10 +7,10 @@ def run_length_encoding(s):
     for el in s:
         dict[el] += 1
 
-    result = ''
+    result = []
 
     for key, value in dict.items():
-        result = result + key + str(value)
+        result = result + [str(value), key]
     return result
 
 
