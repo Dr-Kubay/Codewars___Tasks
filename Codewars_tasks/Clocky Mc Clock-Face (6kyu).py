@@ -1,9 +1,9 @@
 from math import floor
 
+# First solution:
 def what_time_is_it(angle):
-    mins = angle * 2
-    h = floor(mins / 60)
-    m = floor(mins % 60)
+    h = floor(angle / 30)
+    m = floor(angle % 30)
     if h == 0:
         h = "12"
     elif h < 10:
@@ -13,5 +13,10 @@ def what_time_is_it(angle):
     return f"{h}:{m}"
 
 
-
 print(what_time_is_it(17.3))
+print(what_time_is_it(303.242))
+print(what_time_is_it(193.787))
+print(what_time_is_it(180))
+print(what_time_is_it(44.6565))
+print(what_time_is_it(0))
+print(what_time_is_it(360))
