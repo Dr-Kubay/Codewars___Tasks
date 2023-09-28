@@ -3,7 +3,7 @@ from math import floor
 # First solution:
 def what_time_is_it(angle):
     h = floor(angle / 30)
-    m = floor(angle % 30)
+    m = floor(angle % 60)
     if h == 0:
         h = "12"
     elif h < 10:
