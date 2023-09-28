@@ -1,3 +1,5 @@
+# Просто пытаюсь разобраться в алгоритме "Egyptian fractions"
+
 from math import *
 
 def decompose(n):
